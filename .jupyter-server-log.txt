@@ -121,3 +121,47 @@ Websocket closed
 [I 17:24:16.524 NotebookApp] Kernel started: 4050a98e-d485-46a9-97c5-9456379a998a, name: python3
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[W 17:27:08.101 NotebookApp] Notebook TrabalhoNP1.ipynb is not trusted
+[I 17:28:06.893 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:30:06.943 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:32:06.969 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:34:06.889 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[W 17:34:39.375 NotebookApp] Culling 'idle' kernel 'python3' (4050a98e-d485-46a9-97c5-9456379a998a) with 1 connections due to 621 seconds of inactivity.
+[I 17:34:39.376 NotebookApp] Kernel shutdown: 4050a98e-d485-46a9-97c5-9456379a998a
+[W 17:34:39.956 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/8b0ec659-c9f7-4987-b100-efa1e7ea2cb8 (45.185.230.191): Kernel deleted before session
+[W 17:34:39.957 NotebookApp] Kernel deleted before session
+[W 17:34:39.958 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/8b0ec659-c9f7-4987-b100-efa1e7ea2cb8 (45.185.230.191) 3.710000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/Aula%2004%20-%20Ana%CC%81lise%20Estati%CC%81stica%20dos%20Dados.ipynb
+[I 17:36:06.895 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:38:07.087 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:40:07.083 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[W 17:40:08.891 NotebookApp] Notebook TrabalhoNP1.ipynb is not trusted
+[I 17:42:15.500 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:44:15.552 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:46:16.200 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:48:16.231 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:50:16.788 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:52:16.236 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:54:16.611 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:58:22.367 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:00:22.358 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:02:22.208 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+Websocket closed
+[I 18:04:23.077 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:06:24.692 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:08:24.871 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:10:24.729 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:12:25.568 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:14:24.682 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:16:24.682 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:18:24.682 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:20:29.050 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:22:29.059 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:24:29.061 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:26:29.060 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:28:29.068 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:30:29.082 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 18:32:14.029 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 18:34:04.192 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[W 18:34:11.452 NotebookApp] Notebook TrabalhoNP1.ipynb is not trusted
