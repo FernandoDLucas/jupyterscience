@@ -39,3 +39,85 @@ Websocket closed
 [I 16:11:26.375 NotebookApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[W 16:13:10.306 NotebookApp] Notebook Untitled.ipynb is not trusted
+[W 16:19:11.406 NotebookApp] WebSocket ping timeout after 119818 ms.
+[W 16:19:14.441 NotebookApp] WebSocket ping timeout after 119654 ms.
+[I 16:19:19.444 NotebookApp] Starting buffering for 59f05ded-c519-4e8e-9735-bf7950af7eb5:be3c37d67a8a4b269d28a505a679e60f
+[W 16:19:28.360 NotebookApp] WebSocket ping timeout after 119817 ms.
+Websocket closed
+[W 16:23:39.374 NotebookApp] Culling 'idle' kernel 'python3' (59f05ded-c519-4e8e-9735-bf7950af7eb5) with 0 connections due to 627 seconds of inactivity.
+[I 16:23:39.376 NotebookApp] Kernel shutdown: 59f05ded-c519-4e8e-9735-bf7950af7eb5
+[I 16:30:40.361 NotebookApp] Uploading file to /Consumo_cerveja.csv
+[W 16:31:13.132 NotebookApp] 404 GET /user/fernandodlucas-jupyterscience-rd0re4yq/api/kernels/59f05ded-c519-4e8e-9735-bf7950af7eb5/channels?session_id=be3c37d67a8a4b269d28a505a679e60f (45.185.230.191): Kernel does not exist: 59f05ded-c519-4e8e-9735-bf7950af7eb5
+[W 16:31:13.190 NotebookApp] 404 GET /user/fernandodlucas-jupyterscience-rd0re4yq/api/kernels/59f05ded-c519-4e8e-9735-bf7950af7eb5/channels?session_id=be3c37d67a8a4b269d28a505a679e60f (45.185.230.191) 60.180000ms referer=None
+[W 16:31:15.768 NotebookApp] Replacing stale connection: 59f05ded-c519-4e8e-9735-bf7950af7eb5:be3c37d67a8a4b269d28a505a679e60f
+[W 16:31:21.733 NotebookApp] 404 GET /user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/Untitled.ipynb?kernel_name=python3 (45.185.230.191): No such file or directory: Untitled.ipynb
+[W 16:31:21.735 NotebookApp] 404 GET /user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/Untitled.ipynb?kernel_name=python3 (45.185.230.191) 2.230000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-rd0re4yq/tree
+[W 16:31:27.366 NotebookApp] Notebook TrabalhoNP1.ipynb is not trusted
+[I 16:31:27.683 NotebookApp] Kernel started: 571a6b4c-7d38-48c0-bc0e-4e7f8f2f032f, name: python3
+[I 16:33:27.817 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:35:27.809 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:37:27.803 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:39:27.798 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:41:27.812 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:49:28.859 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:49:31.189 NotebookApp] Creating new notebook in 
+[I 16:49:32.811 NotebookApp] Kernel started: 02356beb-3a74-43a4-a1ec-d768b52aeba6, name: python3
+[I 16:49:43.845 NotebookApp] Uploading file to /Aula 04 - Análise Estatística dos Dados.ipynb
+[W 16:49:43.847 NotebookApp] Notebook Aula 04 - Análise Estatística dos Dados.ipynb is not trusted
+[W 16:49:46.084 NotebookApp] Notebook Aula 04 - Análise Estatística dos Dados.ipynb is not trusted
+[I 16:49:49.093 NotebookApp] Kernel started: 8bc89673-7ea8-4f1a-b666-d50f2da5a9c1, name: python3
+[I 16:49:49.097 NotebookApp] Starting buffering for 02356beb-3a74-43a4-a1ec-d768b52aeba6:e349eec495ab46cd973c3ea37540b894
+[I 16:51:31.065 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[W 16:51:39.375 NotebookApp] Culling 'idle' kernel 'python3' (571a6b4c-7d38-48c0-bc0e-4e7f8f2f032f) with 1 connections due to 628 seconds of inactivity.
+[I 16:51:39.376 NotebookApp] Kernel shutdown: 571a6b4c-7d38-48c0-bc0e-4e7f8f2f032f
+[W 16:51:39.878 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/5f36d0ba-f4db-4d65-b8ee-2e63920a6446 (45.185.230.191): Kernel deleted before session
+[W 16:51:39.879 NotebookApp] Kernel deleted before session
+[W 16:51:39.880 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/5f36d0ba-f4db-4d65-b8ee-2e63920a6446 (45.185.230.191) 3.530000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/TrabalhoNP1.ipynb
+[I 16:51:49.466 NotebookApp] Saving file at /Aula 04 - Análise Estatística dos Dados.ipynb
+[W 16:51:49.467 NotebookApp] Notebook Aula 04 - Análise Estatística dos Dados.ipynb is not trusted
+[I 16:51:54.196 NotebookApp] Kernel started: 4c791775-4c9a-4fe9-9a70-4c4a34d1b5a4, name: python3
+[I 16:52:55.382 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:53:30.988 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:55:31.168 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 16:57:31.003 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[W 16:59:39.375 NotebookApp] Culling 'idle' kernel 'python3' (02356beb-3a74-43a4-a1ec-d768b52aeba6) with 0 connections due to 605 seconds of inactivity.
+[I 16:59:39.377 NotebookApp] Kernel shutdown: 02356beb-3a74-43a4-a1ec-d768b52aeba6
+[W 17:00:39.374 NotebookApp] Culling 'idle' kernel 'python3' (8bc89673-7ea8-4f1a-b666-d50f2da5a9c1) with 1 connections due to 649 seconds of inactivity.
+[I 17:00:39.375 NotebookApp] Kernel shutdown: 8bc89673-7ea8-4f1a-b666-d50f2da5a9c1
+[W 17:00:39.887 NotebookApp] 404 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/d4e05c10-274e-4ce9-bf84-ad8d5a9aeb13 (45.185.230.191): Session not found: session_id='d4e05c10-274e-4ce9-bf84-ad8d5a9aeb13'
+[W 17:00:39.887 NotebookApp] Session not found: session_id='d4e05c10-274e-4ce9-bf84-ad8d5a9aeb13'
+[W 17:00:39.888 NotebookApp] 404 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/d4e05c10-274e-4ce9-bf84-ad8d5a9aeb13 (45.185.230.191) 3.250000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/Aula%2004%20-%20Ana%CC%81lise%20Estati%CC%81stica%20dos%20Dados.ipynb
+[W 17:00:45.806 NotebookApp] 404 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/d4e05c10-274e-4ce9-bf84-ad8d5a9aeb13 (45.185.230.191): Session not found: session_id='d4e05c10-274e-4ce9-bf84-ad8d5a9aeb13'
+[W 17:00:45.806 NotebookApp] Session not found: session_id='d4e05c10-274e-4ce9-bf84-ad8d5a9aeb13'
+[W 17:00:45.807 NotebookApp] 404 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/d4e05c10-274e-4ce9-bf84-ad8d5a9aeb13 (45.185.230.191) 2.850000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/Aula%2004%20-%20Ana%CC%81lise%20Estati%CC%81stica%20dos%20Dados.ipynb
+[I 17:00:46.385 NotebookApp] Kernel started: 17f2824f-74db-493b-affb-55f3e9d5ecb9, name: python3
+[W 17:06:39.374 NotebookApp] Culling 'idle' kernel 'python3' (4c791775-4c9a-4fe9-9a70-4c4a34d1b5a4) with 1 connections due to 602 seconds of inactivity.
+[I 17:06:39.376 NotebookApp] Kernel shutdown: 4c791775-4c9a-4fe9-9a70-4c4a34d1b5a4
+[W 17:06:39.881 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/322c51e4-00a1-4c9f-9729-48f13b134834 (45.185.230.191): Kernel deleted before session
+[W 17:06:39.882 NotebookApp] Kernel deleted before session
+[W 17:06:39.883 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/322c51e4-00a1-4c9f-9729-48f13b134834 (45.185.230.191) 4.100000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/TrabalhoNP1.ipynb
+[I 17:06:44.276 NotebookApp] Kernel started: 47fd7aa6-fcc4-4363-86eb-a076cd50a8cd, name: python3
+[I 17:08:06.875 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:10:06.874 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[W 17:11:39.375 NotebookApp] Culling 'idle' kernel 'python3' (17f2824f-74db-493b-affb-55f3e9d5ecb9) with 1 connections due to 651 seconds of inactivity.
+[I 17:11:39.376 NotebookApp] Kernel shutdown: 17f2824f-74db-493b-affb-55f3e9d5ecb9
+[W 17:11:39.808 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/e627365a-db3d-41e8-850d-321eddb0f499 (45.185.230.191): Kernel deleted before session
+[W 17:11:39.809 NotebookApp] Kernel deleted before session
+[W 17:11:39.809 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/e627365a-db3d-41e8-850d-321eddb0f499 (45.185.230.191) 3.400000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/Aula%2004%20-%20Ana%CC%81lise%20Estati%CC%81stica%20dos%20Dados.ipynb
+[I 17:12:06.886 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:12:46.313 NotebookApp] Kernel started: 4496b1a4-b621-4375-b02c-7a6ae3a95c0e, name: python3
+[I 17:14:07.258 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:16:06.900 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:18:06.876 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:20:06.889 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:22:07.100 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[W 17:23:39.374 NotebookApp] Culling 'idle' kernel 'python3' (4496b1a4-b621-4375-b02c-7a6ae3a95c0e) with 1 connections due to 651 seconds of inactivity.
+[I 17:23:39.375 NotebookApp] Kernel shutdown: 4496b1a4-b621-4375-b02c-7a6ae3a95c0e
+[W 17:23:39.937 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/545ad0bf-2631-4127-96a9-200ec81687cf (45.185.230.191): Kernel deleted before session
+[W 17:23:39.937 NotebookApp] Kernel deleted before session
+[W 17:23:39.938 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-rd0re4yq/api/sessions/545ad0bf-2631-4127-96a9-200ec81687cf (45.185.230.191) 3.470000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-rd0re4yq/notebooks/Aula%2004%20-%20Ana%CC%81lise%20Estati%CC%81stica%20dos%20Dados.ipynb
+[I 17:24:06.902 NotebookApp] Saving file at /TrabalhoNP1.ipynb
+[I 17:24:16.524 NotebookApp] Kernel started: 4050a98e-d485-46a9-97c5-9456379a998a, name: python3
+TermSocket.open: 2
+TermSocket.open: Opened 2
