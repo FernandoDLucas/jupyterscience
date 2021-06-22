@@ -306,3 +306,5 @@ TermSocket.open: Opened 1
 [I 13:12:50.751 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 13:15:29.692 NotebookApp] Saving file at /IrisData.ipynb
+[I 13:17:18.957 NotebookApp] Saving file at /IrisData.ipynb
