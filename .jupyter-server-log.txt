@@ -308,3 +308,33 @@ TermSocket.open: 1
 TermSocket.open: Opened 1
 [I 13:15:29.692 NotebookApp] Saving file at /IrisData.ipynb
 [I 13:17:18.957 NotebookApp] Saving file at /IrisData.ipynb
+[W 2021-07-05 19:14:03.544 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.545 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.545 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.545 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.545 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.545 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.545 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.545 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-05 19:14:03.545 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-05 19:14:03.546 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.546 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-05 19:14:03.546 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-05 19:14:03.555 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-05 19:14:03.555 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:14:03.565 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:14:03.569 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:14:03.571 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:14:03.571 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 19:14:03.571 NotebookApp] http://jupyter-fernandodlucas-2djupyterscience-2d08llpktl:8888/user/fernandodlucas-jupyterscience-08llpktl/?token=...
+[I 19:14:03.571 NotebookApp]  or http://127.0.0.1:8888/user/fernandodlucas-jupyterscience-08llpktl/?token=...
+[I 19:14:03.572 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:14:03.598 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:14:03.601 NotebookApp] 302 GET /user/fernandodlucas-jupyterscience-08llpktl/ (10.2.0.200) 1.090000ms
+[I 19:14:11.208 NotebookApp] 302 GET /user/fernandodlucas-jupyterscience-08llpktl/?token=OHCxCGDvSFGWe2tVqUtotA (45.185.228.201) 1.370000ms
+[I 19:21:43.486 NotebookApp] Uploading file to /mushrooms.csv
+[I 19:22:01.090 NotebookApp] Uploading file to /Regressão Logística Multiclasse.ipynb
+[W 19:22:01.138 NotebookApp] Notebook Regressão Logística Multiclasse.ipynb is not trusted
+[I 19:22:07.857 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
