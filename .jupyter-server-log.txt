@@ -338,3 +338,72 @@ TermSocket.open: Opened 1
 [I 19:22:07.857 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 19:23:01.964 NotebookApp] Creating new notebook in 
+[I 19:23:05.812 NotebookApp] Kernel started: e93dc6ed-973c-48b8-a622-db0a731aa29e, name: python3
+[I 19:23:05.812 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 19:23:05.812 NotebookApp] Culling kernels even with connected clients
+[W 19:23:19.938 NotebookApp] Notebook Regressão Logística Multiclasse.ipynb is not trusted
+[I 19:23:20.851 NotebookApp] Kernel started: 6208da96-1ce5-48ae-8668-43552b2596b4, name: python3
+[I 19:25:05.991 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:25:21.364 NotebookApp] Saving file at /Regressão Logística Multiclasse.ipynb
+[W 19:25:21.366 NotebookApp] Notebook Regressão Logística Multiclasse.ipynb is not trusted
+[I 19:27:06.024 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[W 19:30:19.311 NotebookApp] Notebook TrabalhoNP1.ipynb is not trusted
+[I 19:30:22.062 NotebookApp] Kernel started: ee3d1434-8e2d-4787-841f-be63eb7fce11, name: python3
+[I 19:31:06.147 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:33:05.972 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[W 19:34:05.814 NotebookApp] Culling 'idle' kernel 'python3' (6208da96-1ce5-48ae-8668-43552b2596b4) with 1 connections due to 643 seconds of inactivity.
+[I 19:34:05.814 NotebookApp] Kernel shutdown: 6208da96-1ce5-48ae-8668-43552b2596b4
+[W 19:34:06.337 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-08llpktl/api/sessions/c9fecc50-9af3-42c8-81a0-f247bada7d72 (45.185.228.201): Kernel deleted before session
+[W 19:34:06.338 NotebookApp] Kernel deleted before session
+[W 19:34:06.339 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-08llpktl/api/sessions/c9fecc50-9af3-42c8-81a0-f247bada7d72 (45.185.228.201) 3.500000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-08llpktl/notebooks/Regressa%CC%83o%20Logi%CC%81stica%20Multiclasse.ipynb
+[I 19:35:07.337 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:37:07.601 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:38:08.543 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:39:07.449 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[W 19:41:05.813 NotebookApp] Culling 'idle' kernel 'python3' (ee3d1434-8e2d-4787-841f-be63eb7fce11) with 1 connections due to 642 seconds of inactivity.
+[I 19:41:05.814 NotebookApp] Kernel shutdown: ee3d1434-8e2d-4787-841f-be63eb7fce11
+[W 19:41:06.431 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-08llpktl/api/sessions/febe6673-9c1f-4293-a3a1-c9d39653aff2 (45.185.228.201): Kernel deleted before session
+[W 19:41:06.431 NotebookApp] Kernel deleted before session
+[W 19:41:06.432 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-08llpktl/api/sessions/febe6673-9c1f-4293-a3a1-c9d39653aff2 (45.185.228.201) 3.600000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-08llpktl/notebooks/TrabalhoNP1.ipynb
+[I 19:41:07.328 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:47:07.290 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[W 19:47:40.432 NotebookApp] Notebook Regressão Logística Multiclasse.ipynb is not trusted
+[I 19:47:41.497 NotebookApp] Kernel started: 2b756871-84e6-4519-8f1d-cb4227f89b82, name: python3
+[I 19:48:49.778 NotebookApp] Starting buffering for 2b756871-84e6-4519-8f1d-cb4227f89b82:77d1b1a9303f445ab3db25031b16c9c5
+[W 19:48:50.296 NotebookApp] Notebook Regressão Logística Multiclasse.ipynb is not trusted
+[I 19:53:12.817 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:55:12.494 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:57:12.550 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:58:05.168 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 19:58:08.333 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[W 19:58:17.693 NotebookApp] Notebook Trabalho NP3.ipynb is not trusted
+[W 19:59:05.814 NotebookApp] Culling 'idle' kernel 'python3' (2b756871-84e6-4519-8f1d-cb4227f89b82) with 1 connections due to 613 seconds of inactivity.
+[I 19:59:05.815 NotebookApp] Kernel shutdown: 2b756871-84e6-4519-8f1d-cb4227f89b82
+[W 19:59:06.531 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-08llpktl/api/sessions/1589d8fa-3e78-455a-9343-11db118bbb89 (45.185.228.201): Kernel deleted before session
+[W 19:59:06.532 NotebookApp] Kernel deleted before session
+[W 19:59:06.533 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-08llpktl/api/sessions/1589d8fa-3e78-455a-9343-11db118bbb89 (45.185.228.201) 3.270000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-08llpktl/notebooks/Regressa%CC%83o%20Logi%CC%81stica%20Multiclasse.ipynb
+[I 19:59:18.493 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 20:01:19.165 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 20:03:18.909 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 20:05:29.108 NotebookApp] Kernel started: 3cf6d557-9a69-41b3-86fc-acbd3bb4065b, name: python3
+[I 20:07:21.188 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 20:09:21.320 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 20:11:21.252 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 20:13:21.460 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[W 20:16:05.814 NotebookApp] Culling 'idle' kernel 'python3' (3cf6d557-9a69-41b3-86fc-acbd3bb4065b) with 1 connections due to 635 seconds of inactivity.
+[I 20:16:05.815 NotebookApp] Kernel shutdown: 3cf6d557-9a69-41b3-86fc-acbd3bb4065b
+[W 20:16:06.333 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-08llpktl/api/sessions/626d4f09-7636-499b-a27e-07bcdeab7a4e (45.185.228.201): Kernel deleted before session
+[W 20:16:06.333 NotebookApp] Kernel deleted before session
+[W 20:16:06.334 NotebookApp] 410 DELETE /user/fernandodlucas-jupyterscience-08llpktl/api/sessions/626d4f09-7636-499b-a27e-07bcdeab7a4e (45.185.228.201) 3.440000ms referer=https://hub-binder.mybinder.ovh/user/fernandodlucas-jupyterscience-08llpktl/notebooks/Regressa%CC%83o%20Logi%CC%81stica%20Multiclasse.ipynb
+[I 20:17:21.755 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[I 20:21:55.265 NotebookApp] Saving file at /Trabalho NP3.ipynb
+[W 20:22:53.506 NotebookApp] Notebook Trabalho NP3.ipynb is not trusted
+[I 20:23:20.200 NotebookApp] Saving file at /Trabalho NP3.ipynb
+Websocket closed
+TermSocket.open: 1
+TermSocket.open: Opened 1
+Websocket closed
+[I 20:24:00.549 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
